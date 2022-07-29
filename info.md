@@ -1,2 +1,1 @@
-# Привет, GitHub
-пше
+# Привет, GitHub lesson
